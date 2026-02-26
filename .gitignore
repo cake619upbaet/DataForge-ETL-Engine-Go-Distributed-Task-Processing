@@ -1,0 +1,4 @@
+frontend/go-distributed-ui/.env
+frontend/go-distributed-ui/node_modules
+frontend/go-distributed-ui/dist
+frontend/go-distributed-ui/build

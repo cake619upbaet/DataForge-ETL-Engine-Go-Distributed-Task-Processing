@@ -1,0 +1,87 @@
+/* Tailwind v4 — MUST be first */
+@import "tailwindcss";
+
+/* ─────────────────────────────────────────────────
+   DataForge Design Tokens — Light Theme
+───────────────────────────────────────────────── */
+@theme {
+  /* ── Backgrounds ── */
+  --color-canvas:         #F8F9FB;
+  --color-surface:        #FFFFFF;
+  --color-surface-raised: #F1F3F7;
+  --color-surface-high:   #E8EBF0;
+
+  /* ── Borders ── */
+  --color-border:         #DDE1EA;
+  --color-border-strong:  #BCC3D0;
+
+  /* ── Text ── */
+  --color-ink:            #151A26;
+  --color-ink-muted:      #5A6478;
+  --color-ink-faint:      #9CA5B5;
+
+  /* ── Accent · Electric Blue ── */
+  --color-accent:         #2563EB;
+  --color-accent-hover:   #1D4ED8;
+  --color-accent-light:   #EFF4FF;
+  --color-accent-text:    #1E40AF;
+
+  /* ── Status ── */
+  --color-queued:         #6366F1;
+  --color-queued-bg:      #EEF2FF;
+  --color-running:        #D97706;
+  --color-running-bg:     #FFFBEB;
+  --color-done:           #059669;
+  --color-done-bg:        #ECFDF5;
+  --color-failed:         #DC2626;
+  --color-failed-bg:      #FEF2F2;
+
+  /* ── Typography ── */
+  --font-sans:    'Inter', system-ui, sans-serif;
+  --font-display: 'DM Sans', system-ui, sans-serif;
+  --font-mono:    'JetBrains Mono', ui-monospace, monospace;
+}
+
+/* ─────────────────────────────────────────────────
+   Global resets
+───────────────────────────────────────────────── */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--color-canvas);
+  color: var(--color-ink);
+  min-height: 100dvh;
+  line-height: 1.6;
+}
+
+/* ─────────────────────────────────────────────────
+   Dot-grid texture
+───────────────────────────────────────────────── */
+.dot-grid {
+  background-image: radial-gradient(circle, #DDE1EA 1.5px, transparent 1.5px);
+  background-size: 24px 24px;
+  background-color: var(--color-canvas);
+}
+
+/* ─────────────────────────────────────────────────
+   Scrollbar
+───────────────────────────────────────────────── */
+::-webkit-scrollbar             { width: 6px; height: 6px; }
+::-webkit-scrollbar-track       { background: var(--color-surface-raised); }
+::-webkit-scrollbar-thumb       { background: var(--color-border-strong); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: var(--color-ink-faint); }
+
+/* Tabular numerals */
+.tabular { font-variant-numeric: tabular-nums; }
+
+
