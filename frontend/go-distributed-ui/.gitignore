@@ -25,5 +25,9 @@ dist-ssr
 firebase.json
 firestore.indexes.json
 firestore.rules
+.env.development
+.env.production
+.env.test
+.firebase
 
 D:\Projects\GOLANG\Go Distributed Job Processing Unit Project\frontend\go-distributed-ui\src\firebase.js
