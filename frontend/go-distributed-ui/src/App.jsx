@@ -334,6 +334,22 @@ function AboutSection() {
                 
               </div>
             </div>
+
+            {/* Product Hunt badge */}
+            <div className="mt-2">
+              <a
+                href="https://www.producthunt.com/products/dataforge-2?embed=true&utm_source=badge-featured&utm_medium=badge&utm_campaign=badge-dataforge-2"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <img
+                  src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1093417&theme=light&t=1773054396066"
+                  alt="DataForge - Distributed ETL pipeline engine. | Product Hunt"
+                  width="250"
+                  height="54"
+                />
+              </a>
+            </div>
           </div>
 
           {/* Contact links */}
